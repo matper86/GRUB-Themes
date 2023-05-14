@@ -1,4 +1,4 @@
 # Final versions of themes
 ## **amylee-1280x960**
-![AMY LEE](amylee-1280x960/preview.png)
+![AMY LEE](preview-amylee-1280x960.png)
 ---
